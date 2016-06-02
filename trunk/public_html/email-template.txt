@@ -1,0 +1,20 @@
+Dear %s (%s),
+
+You recently answered the question why, attached is your result in XML as well as the details of it below.
+
+You answered your gender as %s and your age is currently recorded from your response as %s. The closest place to you from the selection from the country of %s is %s.
+
+The subject for you for the answer to the reason why was "%s".
+
+Your Reason why is:
+
+%s
+
+----
+Many thanks
+
+
+Robin Spratt
+President
+Chronolabs Cooperative
+https://chrono.labs.coop
